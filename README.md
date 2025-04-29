@@ -17,10 +17,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-
-![Madiyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medmad710&show_icons=true&theme=radical)
-
----
 ##  About Me
 
 Сalm person, I like to help friends and solve problems together (INPT)
