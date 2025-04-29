@@ -18,7 +18,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 
-![Madiyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНА_GITHUB&show_icons=true&theme=radical)
+![Madiyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medmad710&show_icons=true&theme=radical)
 
 ---
 ##  About Me
