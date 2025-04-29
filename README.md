@@ -19,6 +19,6 @@
 
 ##  About Me
 
->Сalm person, I like to help friends and solve problems together (INPT)
->Free time: music, books, working out, playing games, creating projects 
+Сalm person, I like to help friends and solve problems together (INPT).
+Free time: music, books, working out, playing games, creating projects 
 
