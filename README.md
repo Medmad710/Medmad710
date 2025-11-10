@@ -19,6 +19,6 @@ Passionate about using SOTA in the world of AI and building neural networks from
 
 ##  About Me
 
-Сalm person, I like to help friends and solve problems together (INPT)   
+Сalm person, I like to help friends and solve problems together   
 Free time: music, books, working out, playing games, creating projects   
 
