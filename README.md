@@ -1,9 +1,9 @@
 # Hi! I'm Madiyar ;)
 
-- 🎓 Computer Science student at university
-- 🌱 Currently learning Python and PyTorch
-- 💬 Ask me about Deep Learning (DL) and AI development
-- 🚀 Passionate about building intelligent systems
+Student - CSSE
+Learning ML and DL
+I can explain to you how AI works at the level of neural networks.
+Passionate about using SOTA in the world of AI and building neural networks from scratch 
 
 ##  Skills
 
